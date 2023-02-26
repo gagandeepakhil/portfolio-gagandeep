@@ -3,8 +3,8 @@ const pro=[
         img:"images/portfolio.png",
         title:"PORTFOLIO",
         text:"An animated portfolio website built using REACT JS.Learned to implement the react framework,routing in react and hosting a react webpage...",
-        git:"",
-        demo:""
+        git:"https://github.com/gagandeepakhil/portfolio-gagandeep",
+        demo:"https://www.gagandeepdunna.netlify.app/"
     },
     {
         img:"images/itelugu.png",
