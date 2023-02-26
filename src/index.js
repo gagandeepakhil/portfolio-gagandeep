@@ -8,6 +8,7 @@ import Skills from "./components/skills"
 import Projects from "./components/projects"
 import Experience from "./components/experience";
 import Contact from "./components/contact";
+import Copy from './components/copyright';
 
 ReactDom.render(
     <>
@@ -22,5 +23,6 @@ ReactDom.render(
             </Routes>
         </BrowserRouter>
         <Dropbar/>
+        <Copy/>
     </>
     ,document.getElementById('root'));

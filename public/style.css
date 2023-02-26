@@ -424,6 +424,13 @@ h1{
 .cont form button:hover{
     transform: scale(1.1);
 }
+/* copyrights */
+.copy{
+    text-align: center;
+    width: 100vw;
+    color: aliceblue;
+}
+
 /* media queries */
 @media (max-width:431px) and (min-width:319px){
     .tx{
