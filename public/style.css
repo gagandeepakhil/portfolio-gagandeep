@@ -336,7 +336,7 @@ h1{
 .chose{
     border: 2px solid white;
     width: 40%;
-    background-color: bisque;
+    background-color: rgba(36, 237, 255, 0.825);
     border-radius: 5px;
     padding: 2%;
     height: 80vh;
