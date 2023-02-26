@@ -458,6 +458,7 @@ h1{
     }
     #projects{
         flex-direction: column;
+        flex-wrap: nowrap;
     }
     .pro{
         width: fit-content;
