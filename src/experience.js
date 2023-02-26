@@ -11,7 +11,7 @@ const exp=[
     },
     {
         image:"images/backend.jpg",
-        title:"🛠️BAKCEND DEVELOPER",
+        title:"🛠️BACKEND DEVELOPER",
         text:[
             "Created a personal blog web app using node,express,mongodb.",
             "Designed website for international telugu conference 2023.",
@@ -22,7 +22,8 @@ const exp=[
         image:"images/event.png",
         title:"📆EVENT CO-ORDINATOR",
         text:[
-            "Organised a two day national conference PERIscope-2022(Andhra University)"
+            "Organised a two day national conference PERIscope-2022(Andhra University)",
+            "Co-ordinated with other local colleges to make the event grand success."
         ]
     }
 ]

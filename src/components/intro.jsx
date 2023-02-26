@@ -19,7 +19,7 @@ function Intro(){
             <img src="images/me.jpg" alt="Gagandeep" />
             <h2>Hey There💙</h2>
             <h1><p className="tx">{ta[0]}</p></h1>
-            <p className="brief">MERN Stack Developer - Self Learner - FreeLancer</p>
+            <p className="brief">MERN Stack Developer <br/> Self Learner- FreeLancer</p>
             <div className="icons">
                 <a href="https://www.linkedin.com/in/gagandeepdunna" target="blank"><img src="images/linkedin.svg" frameBorder="0"/></a>
                 <a href="https://github.com/gagandeepakhil/" target="blank"><img src="images/github.svg" frameBorder="0"/></a>
