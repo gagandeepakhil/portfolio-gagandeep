@@ -14,11 +14,11 @@ ReactDom.render(
         <Particle/>
         <BrowserRouter>
             <Routes>
-                <Route exact path="/" element={<Intro/>}/>
-                <Route exact path="/skills" element={<Skills/>}/>
-                <Route exact path="/projects" element={<Projects/>}/>
-                <Route exact path="/experience" element={<Experience/>}/>
-                <Route exact path="/contact" element={<Contact/>}/>
+                <Route path="/skills" element={<Skills/>}/>
+                <Route path="/projects" element={<Projects/>}/>
+                <Route path="/experience" element={<Experience/>}/>
+                <Route path="/contact" element={<Contact/>}/>
+                <Route path="/" element={<Intro/>}/>
             </Routes>
         </BrowserRouter>
         <Dropbar/>
