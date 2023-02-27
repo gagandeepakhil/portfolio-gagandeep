@@ -544,12 +544,19 @@ h1{
    .chose>.icons>a{
     margin-left:10% ;
     }
+    #skills{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+
+    }
     #skills img{
         width: 60px;
         height: 60px;
     }
     #skills p{
-        font-size: 12px;
+        font-size: 10px;
     }
 }
 @media (max-width:426px) and (min-width:376px){
