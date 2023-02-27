@@ -9,7 +9,7 @@ function Skills(){
                 {skillset.map((me)=>{
                     return(
                         <div className="lang">
-                            <a href={me.link}><img src={me.icon} alt="" /></a>
+                            <a href={me.link} target="_blank"><img src={me.icon} alt={me.name} /></a>
                             <p>{me.name}</p>
                         </div>   
                     )
