@@ -5,12 +5,13 @@ function Intro(){
     const ta=[
         "I am Gagandeep.",
         "I am Web Developer.",
+        "I am a data analyst.",
         "I love to learn new things."
     ] 
     var i=1;
     setInterval(function me(){
         document.getElementsByClassName('tx')[0].innerHTML = ta[i];
-        i=(i+1)%3;
+        i=(i+1)%4;
     },2998)
 
 
@@ -19,7 +20,7 @@ function Intro(){
             <img src="images/me.jpg" alt="Gagandeep" />
             <h2>Hey There💙</h2>
             <h1><p className="tx">{ta[0]}</p></h1>
-            <p className="brief">MERN Stack Developer <br/> Self Learner- FreeLancer</p>
+            <p className="brief">MERN|MEAN Stack Developer <br/>Data Analyst<br></br> Self Learner- FreeLancer</p>
             <div className="icons">
                 <a href="https://www.linkedin.com/in/gagandeepdunna" target="blank"><img src="images/linkedin.svg" frameBorder="0"/></a>
                 <a href="https://github.com/gagandeepakhil/" target="blank"><img src="images/github.svg" frameBorder="0"/></a>

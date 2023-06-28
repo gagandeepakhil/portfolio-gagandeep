@@ -99,6 +99,26 @@ const skillset=[
         name:"CANVA",
         icon:"images/canva.jpeg",
         link:"https://www.canva.com/en_in/"
+    },
+    {
+        name:"NUMPY",
+        icon:"images/numpy.png",
+        link:"https://numpy.org/doc/stable/"
+    },
+    {
+        name:"PANDAS",
+        icon:"images/pandas.png",
+        link:"https://pandas.pydata.org/"
+    },
+    {
+        name:"MATPLOTLIB",
+        icon:"images/matplotlib.png",
+        link:"https://matplotlib.org/"
+    },
+    {
+        name:"SEABORN",
+        icon:"images/seaborn.png",
+        link:"https://seaborn.pydata.org/"
     }
 ]
 

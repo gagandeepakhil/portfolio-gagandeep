@@ -125,6 +125,7 @@ body{
     height: 2.5rem;
     background-color: rgba(23, 18, 52, 0.641);
     color: aliceblue;
+    margin: 7%;
 }
 @keyframes int {
     from{

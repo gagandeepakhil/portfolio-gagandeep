@@ -4,8 +4,8 @@ function Contact(){
     return(
         <div id="contact">
             <div className="chose">
-                <h2>WHY CHOSE ME</h2>
-                <p>I believe that my experience, dedication to quality work, flexibility, and passion make me an excellent choice for your MERN stack development needs.Besides MERN stack development,I have expertise in HTMl,CSS and JS whihc helps me to build full stack web applications that are effective and visually pleasing.I prioritize communication with my clients to ensure that I'm meeting their expectations and delivering exactly what they're looking for.I would love the opportunity to discuss your project with you further and see how I can help bring your vision to life...</p>
+                <h2>WHY CHOOSE ME</h2>
+                <p>I believe that my experience, dedication to quality work, flexibility, and passion make me an excellent choice for your MERN stack development needs.Besides MERN stack development,I have expertise in HTML,CSS and JS whihc helps me to build full stack web applications that are effective and visually pleasing.I prioritize communication with my clients to ensure that I'm meeting their expectations and delivering exactly what they're looking for.I would love the opportunity to discuss your project with you further and see how I can help bring your vision to life...</p>
                 <div className="icons">
                     <a href="https://www.linkedin.com/in/gagandeepdunna" target="blank"><img src="images/linkedin.svg" frameBorder="0"/></a>
                     <a href="https://github.com/gagandeepakhil/" target="blank"><img src="images/github.svg" frameBorder="0"/></a>
