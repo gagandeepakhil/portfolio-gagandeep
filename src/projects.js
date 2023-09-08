@@ -1,11 +1,11 @@
 const pro=[
-    {
-        img:"images/data-anlysis(aqi).png",
-        title:"DATA ANALYSIS(AQI OF VSKP)",
-        text:"A simple course project data anlysis of AQI of Visakhaptnam city from June 2022 to May 2023 using python.",
-        git:"https://github.com/gagandeepakhil/data-analysis-AQI-",
-        demo:"https://gagandeepakhil.github.io/data-analysis-AQI-/"
-    },
+    // {
+    //     img:"images/data-anlysis(aqi).png",
+    //     title:"DATA ANALYSIS(AQI OF VSKP)",
+    //     text:"A simple course project data anlysis of AQI of Visakhaptnam city from June 2022 to May 2023 using python.",
+    //     git:"https://github.com/gagandeepakhil/data-analysis-AQI-",
+    //     demo:"https://gagandeepakhil.github.io/data-analysis-AQI-/"
+    // },
     {
         img:"images/portfolio.png",
         title:"PORTFOLIO",
