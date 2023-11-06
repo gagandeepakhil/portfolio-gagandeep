@@ -29,7 +29,11 @@ const skillset=[
         icon:"images/node-js.svg",
         link:"https://nodejs.org/"
     },
-
+    {
+        name:"ANGULAR JS",
+        icon:"images/angular.png",
+        link:"https://angularjs.org/"
+    },
     {
         name:"REACT JS",
         icon:"images/react.png",

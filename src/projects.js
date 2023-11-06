@@ -7,6 +7,20 @@ const pro=[
     //     demo:"https://gagandeepakhil.github.io/data-analysis-AQI-/"
     // },
     {
+        img:"images/weather-app-angular.png",
+        title:"WEATHER APP (ANGULAR)",
+        text:"Live weather app that tells the temperature of a city made by using Angular JS and open weather API.",
+        git:"https://github.com/gagandeepakhil/weather_app_angular",
+        demo:"https://angular-weather-alclove.netlify.app/"
+    },
+    {
+        img:"images/weather-app-react.png",
+        title:"WEATHER APP (REACT)",
+        text:"Live weather app that tells the temperature of a city made by using Angular JS and open weather API.",
+        git:"https://github.com/gagandeepakhil/weather-app",
+        demo:"https://gweatherapps.netlify.app/"
+    },
+    {
         img:"images/portfolio.png",
         title:"PORTFOLIO",
         text:"An animated portfolio website built using REACT JS.Learned to implement the react framework,routing in react and hosting a react webpage...",
