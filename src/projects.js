@@ -62,13 +62,13 @@ const pro=[
         git:"https://github.com/gagandeepakhil/drumkit",
         demo:"https://gagandeepakhil.github.io/drumkit"
     },
-    {
-        img:"images/dicegame.png",
-        title:"DICE GAME",
-        text:"A frontend project using basic JS in whihc two dice are rolled and winner is announced.Learnt functions in JS...",
-        git:"https://github.com/gagandeepakhil/dicegame",
-        demo:"https://gagandeepakhil.github.io/dicegame"
-    },
+    // {
+    //     img:"images/dicegame.png",
+    //     title:"DICE GAME",
+    //     text:"A frontend project using basic JS in whihc two dice are rolled and winner is announced.Learnt functions in JS...",
+    //     git:"https://github.com/gagandeepakhil/dicegame",
+    //     demo:"https://gagandeepakhil.github.io/dicegame"
+    // },
     {
         img:"images/basic-calculator.png",
         title:"BASIC CALCULATOR",
