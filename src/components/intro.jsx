@@ -24,7 +24,7 @@ function Intro(){
             <div className="icons">
                 <a href="https://www.linkedin.com/in/gagandeepdunna" target="blank"><img src="images/linkedin.svg" frameBorder="0"/></a>
                 <a href="https://github.com/gagandeepakhil/" target="blank"><img src="images/github.svg" frameBorder="0"/></a>
-                <a href="https://twitter.com/gagandeep_akhil" target="blank"><img src="images/twitter.svg" frameBorder="0"/></a>
+                <a href="https://twitter.com/gagandeep_akhil" target="blank"><img src="images/x.png" frameBorder="0"/></a>
                 <a href="https://www.instagram.com/gagandeep_akhil/" target="blank"><img src="images/instagram.svg" frameBorder="0"/></a>
             </div>
         </div>

@@ -1,11 +1,11 @@
 const pro=[
-    // {
-    //     img:"images/data-anlysis(aqi).png",
-    //     title:"DATA ANALYSIS(AQI OF VSKP)",
-    //     text:"A simple course project data anlysis of AQI of Visakhaptnam city from June 2022 to May 2023 using python.",
-    //     git:"https://github.com/gagandeepakhil/data-analysis-AQI-",
-    //     demo:"https://gagandeepakhil.github.io/data-analysis-AQI-/"
-    // },
+    {
+        img:"images/data-anlysis(aqi).png",
+        title:"DATA ANALYSIS(AQI OF VSKP)",
+        text:"A simple course project data anlysis of AQI of Visakhaptnam city from June 2022 to May 2023 using python.",
+        git:"https://github.com/gagandeepakhil/data-analysis-AQI-",
+        demo:"https://gagandeepakhil.github.io/data-analysis-AQI-/"
+    },
     {
         img:"images/weather-app-angular.png",
         title:"WEATHER APP (ANGULAR)",
@@ -62,26 +62,12 @@ const pro=[
         git:"https://github.com/gagandeepakhil/drumkit",
         demo:"https://gagandeepakhil.github.io/drumkit"
     },
-    // {
-    //     img:"images/dicegame.png",
-    //     title:"DICE GAME",
-    //     text:"A frontend project using basic JS in whihc two dice are rolled and winner is announced.Learnt functions in JS...",
-    //     git:"https://github.com/gagandeepakhil/dicegame",
-    //     demo:"https://gagandeepakhil.github.io/dicegame"
-    // },
     {
         img:"images/basic-calculator.png",
         title:"BASIC CALCULATOR",
         text:"A basic calculator that can perform basic arithmetic operations on integers.Learnt writing javascript code...",
         git:"https://github.com/gagandeepakhil/basic-calculator",
         demo:"https://gagandeepakhil.github.io/basic-calculator"
-    },
-    {
-        img:"images/nft.png",
-        title:"NFT PREVIEW CARD",
-        text:"A frontend project built only using HTML,CSS. Mastered HTMl and CSS by implementing multiple pseudo classes and positionings and overlay effects... ",
-        git:"https://github.com/gagandeepakhil/4.nft-review",
-        demo:"https://gagandeepakhil.github.io/4.nft-preview"
     },
 ]
 

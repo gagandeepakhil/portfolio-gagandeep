@@ -1,24 +1,24 @@
 const skillset=[
-    {
-        name:"HTML",
-        icon:"images/html.svg",
-        link:"https://www.w3.org/html/"
-    },
-    {
-        name:"CSS",
-        icon:"images/css3.svg",
-        link:"https://www.w3.org/Style/CSS/Overview.en.html"
-    },
+    // {
+    //     name:"HTML",
+    //     icon:"images/html.svg",
+    //     link:"https://www.w3.org/html/"
+    // },
+    // {
+    //     name:"CSS",
+    //     icon:"images/css3.svg",
+    //     link:"https://www.w3.org/Style/CSS/Overview.en.html"
+    // },
     {
         name:"BOOTSTRAP",
         icon:"images/bootstrap.svg",
         link:"https://getbootstrap.com/"
     },
-    {
-        name:"JAVASCRIPT",
-        icon:"images/javascript.svg",
-        link:"https://www.javascript.com/"
-    },
+    // {
+    //     name:"JAVASCRIPT",
+    //     icon:"images/javascript.svg",
+    //     link:"https://www.javascript.com/"
+    // },
     {
         name:"JQUERY",
         icon:"images/jquery.svg",
@@ -40,6 +40,11 @@ const skillset=[
         link:"https://reactjs.org/"
     },
     {
+        name:"NEXT JS",
+        icon:"images/nextjs.png",
+        link:"https://nextjs.org/"
+    },
+    {
         name:"GIT",
         icon:"images/git.svg",
         link:"https://git-scm.com/"
@@ -59,16 +64,16 @@ const skillset=[
         icon:"images/sql.jpeg",
         link:"https://www.mysql.com/"
     },
-    {
-        name:"C",
-        icon:"images/c.png",
-        link:"https://www.learn-c.org/"
-    },
-    {
-        name:"C++",
-        icon:"images/c++.png",
-        link:"https://isocpp.org/"
-    },
+    // {
+    //     name:"C",
+    //     icon:"images/c.png",
+    //     link:"https://www.learn-c.org/"
+    // },
+    // {
+    //     name:"C++",
+    //     icon:"images/c++.png",
+    //     link:"https://isocpp.org/"
+    // },
     {
         name:"PYTHON",
         icon:"images/python.png",
@@ -79,16 +84,16 @@ const skillset=[
         icon:"images/figma.png",
         link:"https://www.figma.com/"
     },
-    {
-        name:"JAVA",
-        icon:"images/java.png",
-        link:"https://www.java.com/"
-    },
-    {
-        name:"APIS",
-        icon:"images/postman.png",
-        link:"https://www.postman.com/"
-    },
+    // {
+    //     name:"JAVA",
+    //     icon:"images/java.png",
+    //     link:"https://www.java.com/"
+    // },
+    // {
+    //     name:"APIS",
+    //     icon:"images/postman.png",
+    //     link:"https://www.postman.com/"
+    // },
     {
         name:"NETLIFY",
         icon:"images/netlify.jpeg",
@@ -124,6 +129,31 @@ const skillset=[
     //     icon:"images/seaborn.png",
     //     link:"https://seaborn.pydata.org/"
     // }
+    {
+        name:"FLUTTER",
+        icon:"images/flutter.png",
+        link:"https://flutter.dev"
+    },
+    {
+        name:"MATERIAL UI",
+        icon:"images/mui.png",
+        link:"https://mui.com/material-ui/"
+    },
+    {
+        name:"FIREBASE",
+        icon:"images/firebase.png",
+        link:"https://firebase.google.com/"
+    },
+    {
+        name:"THREE JS",
+        icon:"images/threejs.png",
+        link:"https://threejs.org"
+    },
+    {
+        name:"A-FRAME",
+        icon:"images/aframe.jpg",
+        link:"https://aframe.io"
+    }
 ]
 
 export default skillset
