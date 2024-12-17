@@ -3,7 +3,7 @@ const pro=[
         img:"images/rbac-ui.png",
         title:"RBAC-UI",
         text:"A web app for role based access control(RBAC) built using REACT JS and material UI with node js backend.",
-        git:"https://github.com/gagandeepakhil/rvr_security_frontend",
+        git:"https://github.com/gagandeepakhil/RBAC_frontend",
         demo:"https://ui-rbac.netlify.app/",
         gitDsiabled:false,
         demoDisabled:false
