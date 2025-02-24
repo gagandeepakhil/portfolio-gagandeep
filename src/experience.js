@@ -17,7 +17,6 @@ const exp=[
         image:"images/fullstack.jpg",
         title:"FULL STACK DEVELOPER",
         text:[
-            "Created this amazing portfolio website using react.",
             "Designed website for avenue hair saloon with amazing transition effects.",
             "Designed website for AU incubation center.",
             "Created a personal blog web app using node,express,mongodb.",

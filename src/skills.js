@@ -1,29 +1,4 @@
 const skillset=[
-    // {
-    //     name:"HTML",
-    //     icon:"images/html.svg",
-    //     link:"https://www.w3.org/html/"
-    // },
-    // {
-    //     name:"CSS",
-    //     icon:"images/css3.svg",
-    //     link:"https://www.w3.org/Style/CSS/Overview.en.html"
-    // },
-    {
-        name:"BOOTSTRAP",
-        icon:"images/bootstrap.svg",
-        link:"https://getbootstrap.com/"
-    },
-    // {
-    //     name:"JAVASCRIPT",
-    //     icon:"images/javascript.svg",
-    //     link:"https://www.javascript.com/"
-    // },
-    {
-        name:"JQUERY",
-        icon:"images/jquery.svg",
-        link:"https://jquery.com/"
-    },
     {
         name:"NODE JS",
         icon:"images/node-js.svg",
@@ -64,16 +39,6 @@ const skillset=[
         icon:"images/sql.jpeg",
         link:"https://www.mysql.com/"
     },
-    // {
-    //     name:"C",
-    //     icon:"images/c.png",
-    //     link:"https://www.learn-c.org/"
-    // },
-    // {
-    //     name:"C++",
-    //     icon:"images/c++.png",
-    //     link:"https://isocpp.org/"
-    // },
     {
         name:"PYTHON",
         icon:"images/python.png",
@@ -84,16 +49,6 @@ const skillset=[
         icon:"images/figma.png",
         link:"https://www.figma.com/"
     },
-    // {
-    //     name:"JAVA",
-    //     icon:"images/java.png",
-    //     link:"https://www.java.com/"
-    // },
-    // {
-    //     name:"APIS",
-    //     icon:"images/postman.png",
-    //     link:"https://www.postman.com/"
-    // },
     {
         name:"NETLIFY",
         icon:"images/netlify.jpeg",
@@ -109,26 +64,6 @@ const skillset=[
         icon:"images/canva.jpeg",
         link:"https://www.canva.com/en_in/"
     },
-    // {
-    //     name:"NUMPY",
-    //     icon:"images/numpy.png",
-    //     link:"https://numpy.org/doc/stable/"
-    // },
-    // {
-    //     name:"PANDAS",
-    //     icon:"images/pandas.png",
-    //     link:"https://pandas.pydata.org/"
-    // },
-    // {
-    //     name:"MATPLOTLIB",
-    //     icon:"images/matplotlib.png",
-    //     link:"https://matplotlib.org/"
-    // },
-    // {
-    //     name:"SEABORN",
-    //     icon:"images/seaborn.png",
-    //     link:"https://seaborn.pydata.org/"
-    // }
     {
         name:"FLUTTER",
         icon:"images/flutter.png",
@@ -153,6 +88,26 @@ const skillset=[
         name:"A-FRAME",
         icon:"images/aframe.jpg",
         link:"https://aframe.io"
+    },
+    {
+        name:"SELENIUM",
+        icon:"images/selenium.jpg",
+        link:"https://www.selenium.dev/"
+    },
+    {
+        name:"TENSORFLOW",
+        icon:"images/tensorflow.png",
+        link:"https://www.tensorflow.org/"
+    },
+    {
+        name:"SOCKET IO",
+        icon:"images/socket-io.svg",
+        link:"https://socket.io/"
+    },
+    {
+        name:"FLASK",
+        icon:"images/flask.png",
+        link:"https://flask.palletsprojects.com/en/2.2.x/"
     }
 ]
 

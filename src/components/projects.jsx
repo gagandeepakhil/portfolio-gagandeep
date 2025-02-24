@@ -13,30 +13,18 @@ function Project() {
               <h4>{pr.title}</h4>
               <p>{pr.text}</p>
               <div className="link">
-                <a
+                {!pr?.gitDsiabled&&<a
                   href={pr.git}
-                  onClick={(e) => {
-                    if (pr?.gitDsiabled) {
-                      e.preventDefault();
-                    }
-                  }}
-                  className={pr?.gitDsiabled ? "disabled" : ""}
                   target="_blank"
                 >
                   <img src="images/github-btn.png" alt={pr.git} />
-                </a>
-                <a
+                </a>}
+                {!pr?.demoDisabled&&<a
                   href={pr.demo}
-                  onClick={(e) => {
-                    if (pr?.demoDisabled) {
-                      e.preventDefault();
-                    }
-                  }}
-                  className={pr?.demoDisabled ? "disabled" : ""}
                   target="_blank"
                 >
                   <button>LIVE DEMO</button>
-                </a>
+                </a>}
               </div>
             </div>
           );

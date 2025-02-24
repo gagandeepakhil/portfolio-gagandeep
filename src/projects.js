@@ -27,15 +27,6 @@ const pro=[
         demoDisabled:false
     },
     {
-        img:"images/weather-app-react.png",
-        title:"WEATHER APP (REACT)",
-        text:"Live weather app that tells the temperature of a city made by using Angular JS and open weather API.",
-        git:"https://github.com/gagandeepakhil/weather-app",
-        demo:"https://gweatherapps.netlify.app/",
-        gitDsiabled:false,
-        demoDisabled:false
-    },
-    {
         img:"images/portfolio.png",
         title:"PORTFOLIO",
         text:"An animated portfolio website built using REACT JS.Learned to implement the react framework,routing in react and hosting a react webpage...",
@@ -68,33 +59,6 @@ const pro=[
         text:"A web app for salon named AVENUE built using frontend frameworks.Implemented many types of animations.Learnt advanced CSS animations using JS...",
         git:"https://github.com/nallamdeepak/avenue",
         demo:"https://nallamdeepak.github.io/avenue",
-        gitDsiabled:false,
-        demoDisabled:false
-    },
-    {
-        img:"images/myblog.png",
-        title:"BLOG",
-        text:"A personal blog project built using EXPRESS JS,MONGO DB.Learnt ejs rendering, implementing mongodb in live websites, deploying express apps using MVC model...",
-        git:"https://github.com/gagandeepakhil/myblog",
-        demo:"https://myblog-taupe-beta.vercel.app/",
-        gitDsiabled:true,
-        demoDisabled:true
-    },
-    {
-        img:"images/drumkit.png",
-        title:"DRUM KIT",
-        text:"A frontend project using JS which plays sounds on a click or button press.Learnt adding event listeners to website and playing sounds in a website...",
-        git:"https://github.com/gagandeepakhil/drumkit",
-        demo:"https://gagandeepakhil.github.io/drumkit",
-        gitDsiabled:false,
-        demoDisabled:false
-    },
-    {
-        img:"images/basic-calculator.png",
-        title:"BASIC CALCULATOR",
-        text:"A basic calculator that can perform basic arithmetic operations on integers.Uses postfix conversion, postfix evaluation logic.Learnt writing javascript code...",
-        git:"https://github.com/gagandeepakhil/basic-calculator",
-        demo:"https://gagandeepakhil.github.io/basic-calculator",
         gitDsiabled:false,
         demoDisabled:false
     },

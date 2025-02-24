@@ -274,12 +274,6 @@ h1{
 
     }
 }
-.disabled{
-    pointer-events: none;
-    opacity: 0.5;
-    background-color: grey;
-    cursor: default;
-}
 /* experience */
 #experience{
     display:flex;
