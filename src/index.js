@@ -6,6 +6,7 @@ import Intro from "./components/intro"
 import Dropbar from "./components/dropbar"
 import Skills from "./components/skills"
 import Projects from "./components/projects"
+import AgenticWorkflows from "./components/agenticWorkflows"
 import Experience from "./components/experience";
 import Contact from "./components/contact";
 import Copy from './components/copyright';
@@ -16,6 +17,7 @@ ReactDom.render(
         <BrowserRouter>
             <Routes>
                 <Route path="/skills" element={<Skills/>}/>
+                <Route path="/agentic-workflows" element={<AgenticWorkflows/>}/>
                 <Route path="/projects" element={<Projects/>}/>
                 <Route path="/experience" element={<Experience/>}/>
                 <Route path="/contact" element={<Contact/>}/>

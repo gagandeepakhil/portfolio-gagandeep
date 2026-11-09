@@ -108,6 +108,16 @@ const skillset=[
         name:"FLASK",
         icon:"images/flask.png",
         link:"https://flask.palletsprojects.com/en/2.2.x/"
+    },
+    {
+        name:"JAVASCRIPT",
+        icon:"images/javascript.svg",
+        link:"https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+        name:"BOOTSTRAP",
+        icon:"images/bootstrap.svg",
+        link:"https://getbootstrap.com/"
     }
 ]
 
