@@ -1,17 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="images/favicon.webp" type="image/x-icon">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
-    <title>GAGAN DEEP DUNNA</title>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#08090c" />
+    <link rel="shortcut icon" href="images/favicon.webp" type="image/x-icon" />
+
+    <!-- SEO -->
+    <title>Gagandeep Dunna — Full-Stack & 3D/VR Web Developer</title>
+    <meta
+      name="description"
+      content="Gagandeep Dunna is a full-stack web developer building fast MERN/MEAN apps, immersive 3D/VR web experiences, and data-driven tools. Available for freelance and full-time work."
+    />
+    <meta name="author" content="Gagandeep Dunna" />
+    <meta
+      name="keywords"
+      content="Gagandeep Dunna, full stack developer, MERN developer, React developer, Three.js, WebXR, VR web developer, freelance web developer, data analyst"
+    />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Gagandeep Dunna — Full-Stack & 3D/VR Web Developer" />
+    <meta
+      property="og:description"
+      content="Full-stack web developer building fast MERN/MEAN apps, immersive 3D/VR experiences, and data-driven tools. Available for freelance and full-time."
+    />
+    <meta property="og:image" content="images/me.jpg" />
+    <meta property="og:url" content="https://gagandeepdunna.netlify.app/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Gagandeep Dunna — Full-Stack & 3D/VR Web Developer" />
+    <meta
+      name="twitter:description"
+      content="Full-stack web developer building fast MERN/MEAN apps, immersive 3D/VR experiences, and data-driven tools."
+    />
+    <meta name="twitter:image" content="images/me.jpg" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Set theme before paint to avoid flash -->
+    <script>
+      (function () {
+        try {
+          var stored = localStorage.getItem("theme");
+          var prefersLight =
+            window.matchMedia &&
+            window.matchMedia("(prefers-color-scheme: light)").matches;
+          var theme = stored || (prefersLight ? "light" : "dark");
+          document.documentElement.setAttribute("data-theme", theme);
+        } catch (e) {
+          document.documentElement.setAttribute("data-theme", "dark");
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to view this portfolio.</noscript>
     <div id="root"></div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
-    <script src="script.js"></script>
-</body>
+  </body>
 </html>
